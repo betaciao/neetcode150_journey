@@ -18,7 +18,7 @@ The repository is organized as follows:
 ├── README.md
 ├── arrays_and_hashing/
 │   ├── [x] 1. Contains Duplicate
-    ├── [] 2.
+    ├── [x] 2. Valid Anagram
     ├── [] 3. 
     ├── [] 4.    
     ├── [] 5.
