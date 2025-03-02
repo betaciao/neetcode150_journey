@@ -17,5 +17,12 @@ The repository is organized as follows:
 /Users/alphadiallo/Desktop/neetcode150_journey/
 ├── README.md
 ├── arrays_and_hashing/
-│   ├── [] 1. Contains Duplicate
+│   ├── [x] 1. Contains Duplicate
+    ├── [] 2.
+    ├── [] 3. 
+    ├── [] 4.    
+    ├── [] 5.
+    ├── [] 6.
+    ├── [] 7.
+    ├── [] 8.    
 ```
