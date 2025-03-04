@@ -19,7 +19,7 @@ The repository is organized as follows:
 ├── arrays_and_hashing/
 │   ├── [x] 1. Contains Duplicate
     ├── [x] 2. Valid Anagram
-    ├── [] 3. 
+    ├── [x] 3. Two Sum
     ├── [] 4.    
     ├── [] 5.
     ├── [] 6.

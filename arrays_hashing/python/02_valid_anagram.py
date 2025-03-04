@@ -1,4 +1,4 @@
-# Problem 1. Contains Duplicate
+# Problem 2. Valid Anagram
 # NC Link: https://neetcode.io/problems/is-anagram
 # LC Link: https://leetcode.com/problems/valid-anagram/description/
 
