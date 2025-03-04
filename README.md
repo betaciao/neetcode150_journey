@@ -20,7 +20,7 @@ The repository is organized as follows:
 │   ├── [x] 1. Contains Duplicate
     ├── [x] 2. Valid Anagram
     ├── [x] 3. Two Sum
-    ├── [] 4.    
+    ├── [] 4. Group Anagrams    
     ├── [] 5.
     ├── [] 6.
     ├── [] 7.
