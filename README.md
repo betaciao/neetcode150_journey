@@ -14,7 +14,7 @@ The purpose of this repository is to:
 The repository is organized as follows:
 
 ```
-/Users/alphadiallo/Desktop/neetcode150_journey/
+/neetcode150_journey/
 ├── README.md
 ├── arrays_and_hashing/
 │   ├── [x] 1. Contains Duplicate
